@@ -6,6 +6,7 @@
 html, body {
 	background-image:url("http://iogames.at/images/agarbackground.jpg"); 
  background-repeat: no-repeat, repeat;
+    height:95%;
     background-color: #222;
 }
 
